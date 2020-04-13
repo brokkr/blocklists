@@ -1,0 +1,8 @@
+# Blocklist to make Hitman 2 go into offline mode
+
+0.0.0.0 dkcdc01.corp.ioi.dk
+0.0.0.0 auth.hitman.io
+0.0.0.0 metrics.hitman.io
+0.0.0.0 config.hitman.io
+0.0.0.0 pc2-service.hitman.io
+
